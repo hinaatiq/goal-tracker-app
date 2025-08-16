@@ -27,9 +27,10 @@ A user-centered Android application designed to help individuals set goals, trac
 ---
 
 ## 📸 Screenshots
-*(Upload your screenshots to a folder named `screenshots` and link them here)*  
-- ![Home Screen](screenshots/home.png)  
-- ![Progress Tracker](screenshots/progress.png)
+- ![Welcome Screen](screenshots/0.png)
+- ![Home Screen](screenshots/3.png)  
+- ![Accountability Screen](screenshots/13.png)  
+- ![Progress Tracker](screenshots/6.png)
 
 ---
 
